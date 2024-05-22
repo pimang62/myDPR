@@ -1,4 +1,4 @@
-# A308 Retrieval Trainer (DPR)
+# Retrieval Trainer (DPR)
 
 Retrieval 모델 훈련을 위한 Repo 
 
